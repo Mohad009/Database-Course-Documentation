@@ -53,10 +53,9 @@
 #### Non-Relational Databases (NoSQL)
 - Do not use a fixed table schema; can store data in various formats like documents, key-value pairs, wide-columns, or graphs
 - Better suited for unstructured or semi-structured data and large-scale distributed systems
-- Offer flexibility and horizontal scalability
+- Offer flexibility and scalability
 - **Examples:**
   - **MongoDB** - Document-based NoSQL database storing data as JSON-like documents
-  - **Cassandra** - Wide-column NoSQL database designed for high availability and scalability across distributed systems
 
 ### Centralized vs. Distributed vs. Cloud Databases
 
