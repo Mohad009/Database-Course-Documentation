@@ -1,5 +1,3 @@
-# Database Systems Report
-
 ## 1. Flat File Systems vs. Relational Databases
 
 | Aspect | Flat File System | Relational Database |
@@ -18,18 +16,15 @@
 
 ### System Analyst
 - Works closely with stakeholders and clients to gather and analyze business requirements
-- Prepares the Requirements Document that outlines what the system should do
 - Acts as a bridge between users and the technical team
 
 ### Database Designer
 - Designs the logical and physical structure of the database
 - Creates the Entity-Relationship Diagram (ERD) to define how data is related
-- Ensures proper normalization and data integrity
 
 ### Database Developer
 - Builds the database based on the designer's specifications
 - Writes SQL queries, stored procedures, functions, and scripts to manipulate and manage data
-- May also implement ETL (Extract, Transform, Load) processes for data integration
 
 ### Database Administrator (DBA)
 - Manages database security, user access, and permissions
@@ -39,7 +34,6 @@
 ### Application Developer
 - Develops applications (web, desktop, or mobile) that interact with the database
 - Implements front-end interfaces and back-end logic
-- Connects the application to the database using APIs or frameworks (e.g., REST, GraphQL, ORMs)
 
 ### Business Intelligence (BI) Developer
 - Analyzes data and creates dashboards, reports, and visualizations
